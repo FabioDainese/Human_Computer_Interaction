@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/FabioDainese/Human_Computer_Interaction/blob/master/Source/Images/Smartphone/Smartphone%20Icon.png" width="24" alt="Dixer Logo">&nbsp;Dixer</h1>
 
-This is a personal project developed for the '*Human Computer Interaction and Information Visualization*' [Ca' Foscari University](https://www.unive.it) master's degree course (2018/2019).
+This is a personal project developed for the '*Human Computer Interaction and Information Visualization*' [Ca' Foscari University](https://www.unive.it) master's degree course in 'Software Dependability and Cyber Security' (2018/2019).
 
 The main goal of this project was to provide a design solution for the visualization of environmental data (CO<sub>2</sub>, Humidity, Luminosity, Wind Speed, Pressure, ...) at different levels of granularity for various types of users.
 
